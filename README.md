@@ -2,12 +2,15 @@
 
 # DOCKSIDE
 
-> A realistic 3D first-person boat docking simulator for learning center console outboard boat docking techniques.
+> First-person boat docking with real physics.
 
-![Next.js](https://img.shields.io/badge/Next.js-16-black)
-![React](https://img.shields.io/badge/React-19-blue)
-![Three.js](https://img.shields.io/badge/Three.js-R3F-green)
-![Tests](https://img.shields.io/badge/tests-48_passing-brightgreen)
+A 3D boat docking simulator for practicing slip parking with configurable wind, current, and dock positioning — built to explore modern full-stack TypeScript architecture with a focus on clean patterns and game-feel. Not intended for production use.
+
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)](https://www.typescriptlang.org)
+[![React Three Fiber](https://img.shields.io/badge/R3F-Three.js-green)](https://docs.pmnd.rs/react-three-fiber)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss)](https://tailwindcss.com)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev)
 
 ## Overview
 
